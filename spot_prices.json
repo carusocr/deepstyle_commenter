@@ -1,0 +1,100 @@
+{
+    "SpotPriceHistory": [
+        {
+            "Timestamp": "2016-08-24T02:56:10.000Z", 
+            "ProductDescription": "Windows", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.106900", 
+            "AvailabilityZone": "eu-central-1b"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:56:08.000Z", 
+            "ProductDescription": "Linux/UNIX", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.097900", 
+            "AvailabilityZone": "eu-central-1b"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:55:15.000Z", 
+            "ProductDescription": "Windows", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.107100", 
+            "AvailabilityZone": "eu-central-1b"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:55:15.000Z", 
+            "ProductDescription": "Windows", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.304900", 
+            "AvailabilityZone": "eu-central-1a"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:55:13.000Z", 
+            "ProductDescription": "Linux/UNIX", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.148600", 
+            "AvailabilityZone": "eu-central-1a"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:53:53.000Z", 
+            "ProductDescription": "Windows", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.107200", 
+            "AvailabilityZone": "eu-central-1b"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:53:51.000Z", 
+            "ProductDescription": "Linux/UNIX", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.098100", 
+            "AvailabilityZone": "eu-central-1b"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:51:10.000Z", 
+            "ProductDescription": "Windows", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.107400", 
+            "AvailabilityZone": "eu-central-1b"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:51:08.000Z", 
+            "ProductDescription": "Linux/UNIX", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.098300", 
+            "AvailabilityZone": "eu-central-1b"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:50:42.000Z", 
+            "ProductDescription": "Windows", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.107200", 
+            "AvailabilityZone": "eu-central-1b"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:50:15.000Z", 
+            "ProductDescription": "Windows", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.280000", 
+            "AvailabilityZone": "eu-central-1a"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:50:13.000Z", 
+            "ProductDescription": "Linux/UNIX", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.144000", 
+            "AvailabilityZone": "eu-central-1a"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:47:04.000Z", 
+            "ProductDescription": "Windows", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.304900", 
+            "AvailabilityZone": "eu-central-1a"
+        }, 
+        {
+            "Timestamp": "2016-08-24T02:47:02.000Z", 
+            "ProductDescription": "Linux/UNIX", 
+            "InstanceType": "g2.2xlarge", 
+            "SpotPrice": "0.157400", 
+            "AvailabilityZone": "eu-central-1a"
+        }, 
